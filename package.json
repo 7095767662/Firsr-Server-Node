@@ -1,0 +1,23 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "This is my first server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7095767662/Firsr-Server-Node.git"
+  },
+  "author": "syam sundar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7095767662/Firsr-Server-Node/issues"
+  },
+  "homepage": "https://github.com/7095767662/Firsr-Server-Node#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
